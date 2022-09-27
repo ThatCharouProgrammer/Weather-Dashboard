@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather Dashboard</string>
+    <string name="col1">Day</string>
+    <string name="col2">Condition</string>
+    <string name="col3">Rain</string>
+    <string name="col4">High</string>
+    <string name="col5">Low</string>
+    <string name="row1Day">Today</string>
+    <string name="row1Condition">Sunny</string>
+    <string name="row1Rain">6%</string>
+    <string name="row1High">27°</string>
+    <string name="row1Low">20°</string>
+    <string name="row2Day">Tuesday</string>
+    <string name="row2Condition">Partly Cloudy</string>
+    <string name="row2Rain">6%</string>
+    <string name="row2High">27°</string>
+    <string name="row2Low">20°</string>
+    <string name="row3Day">Wednesday</string>
+    <string name="row3Condition">Windy</string>
+    <string name="row3Rain">6%</string>
+    <string name="row3High">27°</string>
+    <string name="row3Low">20°</string>
+</resources>
