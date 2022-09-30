@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //SimpleDateFormat formatter= new SimpleDateFormat("HH");
         //int currentTime = 20 ;//Integer.parseInt(formatter.format(new Date(System.currentTimeMillis())));
 
-        String background_day_state = "Day";
+        //String background_day_state = "Day";
 
         /** Code to change the background
          *
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
          *
          * */
 
-        switch (background_day_state){
+        /*switch (background_day_state){
             case "Morning":
                 scrollView.setBackground(getResources().getDrawable(R.drawable.background_morning));
                 break;
@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             case "Night":
                 scrollView.setBackground(getResources().getDrawable(R.drawable.background_night));
                 break;
-        }
+        }*/
 
     }
 }
