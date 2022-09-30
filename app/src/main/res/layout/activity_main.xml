@@ -19,6 +19,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
+            <SearchView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </SearchView>
+
         </LinearLayout>
 
         <!-- Today, current condition image -->
